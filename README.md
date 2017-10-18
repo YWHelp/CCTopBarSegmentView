@@ -1,0 +1,2 @@
+# CCTopBarSegmentView
+仿新浪微博个人主页界面，按钮栏上滑块根据滑动的偏移量移动
